@@ -1,0 +1,5 @@
+SELECT TOP (1000) [id]
+      ,[person_name]
+      ,[birth_date]
+      ,[phone]
+  FROM [MyDatabase].[dbo].[persons]
